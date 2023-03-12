@@ -14,3 +14,7 @@ Download [AutoIt](https://www.autoitscript.com/site/autoit/downloads), open "Com
 
 - J2Team
 - Helge Klein for SetACL
+
+## License
+
+[MIT](LICENSE) License.
