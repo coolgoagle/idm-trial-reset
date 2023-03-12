@@ -1,4 +1,4 @@
-# MADE FOR EDUCATIONAL PURPOSES ONLY
+# IDM TRIAL RESET - PERMANENT
 Thanks to [J2TEAM](https://github.com/J2TEAM) for the base scripts
 
 If you can, [buy a license from IDM](https://secure.internetdownloadmanager.com/buy_idm.html) to support their developers.
