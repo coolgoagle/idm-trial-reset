@@ -8,7 +8,7 @@ If you can, [buy a license from IDM](https://secure.internetdownloadmanager.com/
 You can download the latest version from [here](https://github.com/coolgoagle/idm-trial-reset/releases/latest).
 
 ## Building from src
-Download AutoIt[https://www.autoitscript.com/site/autoit/downloads], open "Compile Script to .exe (x64)" and drag files for the respective prompts.
+Download [AutoIt](https://www.autoitscript.com/site/autoit/downloads), open "Compile Script to .exe (x64)" and drag files for the respective prompts.
 
 ## Credits
 
