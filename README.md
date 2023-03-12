@@ -1,7 +1,7 @@
 # MADE FOR EDUCATIONAL PURPOSES ONLY
 Thanks to [J2TEAM](https://github.com/J2TEAM) for the base scripts
 
-If you can, [buy a license from IDM](https://secure.internetdownloadmanager.com/buy_idm.html) instead of using this to support their developers.
+If you can, [buy a license from IDM](https://secure.internetdownloadmanager.com/buy_idm.html) to support their developers.
 
 ## Downloading
 
